@@ -5,3 +5,9 @@ if (number > 75) {
 } else {
   console.log("belajar lagi");
 }
+
+let numberr = 90;
+console.log(numberr.typeoff);
+
+textt = "haii";
+console.log(textt.typeof);
